@@ -1,0 +1,28 @@
+body{
+  background-color: lightcyan;
+}
+
+li{
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+}
+
+button{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.conheca{
+  display: center;
+  text-align: center;
+  border-width: medium;
+  border-style: solid;
+  border-color: #00f;
+  border-radius: 10px;
+  background-color:#00f;
+
+}
+
+
+
